@@ -1,4 +1,4 @@
-.quack/MonoBleedingEdge
 .quack/quack_BurstDebugInformation_DoNotShip
 .quack/server-ip.txt
 *.zip
+.gitignore

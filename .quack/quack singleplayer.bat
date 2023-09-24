@@ -1,1 +1,0 @@
-.\quack.exe -mode host

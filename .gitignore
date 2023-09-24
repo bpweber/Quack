@@ -1,4 +1,4 @@
 .quack/quack_BurstDebugInformation_DoNotShip
-.quack/server-ip.txt
+server-ip.txt
 *.zip
-.gitignore
+QuackLauncher

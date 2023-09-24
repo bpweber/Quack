@@ -2,6 +2,8 @@
 
 ## A fast paced arena shooter inspired by the GOAT
 
+### Currently In Development
+
 To connect to a multiplayer server:
  - Move the ***server-ip.txt*** from the ***.quack*** folder into the main directory
  - Enter the IP address of the server you want to connect to into the file and save

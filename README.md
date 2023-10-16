@@ -5,6 +5,7 @@
 ### Currently In Development
 
 ***Note: Git LFS needs to be initialized for the game to work properly. I recommend cloning the repository using GitHub desktop and initializing Git LFS when prompted***
+
 ***"Download ZIP" does not currently work!***
 
 To connect to a multiplayer server:

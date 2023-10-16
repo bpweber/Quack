@@ -4,7 +4,7 @@
 
 ### Currently In Development
 
-* Note: Git LFS needs to be initialized for the game to work properly. I recommend cloning the repository using GitHub desktop
+***Note: Git LFS needs to be initialized for the game to work properly. I recommend cloning the repository using GitHub desktop***
 
 To connect to a multiplayer server:
  - Move the ***server-ip.txt*** from the ***.quack*** folder into the main directory
